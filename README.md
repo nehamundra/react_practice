@@ -1,2 +1,2 @@
 # react_practice
-practice react
+Udemy assignments
