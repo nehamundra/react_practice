@@ -1,0 +1,8 @@
+.activeNav{
+    color: rgb(223, 176, 76);
+    text-decoration: underline;
+}
+
+li{
+    text-align: left;
+}
